@@ -1,11 +1,12 @@
-.navbar{
-    display: flex;
-    width: 100%;
-    justify-content: space-between;
+.navbar {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  position: relative;
 }
-.nav_links{
-    display: flex;
-    list-style: none;
-    gap: 20px;
-    align-items: center;
+.nav_links {
+  display: flex;
+  list-style: none;
+  gap: 20px;
+  align-items: center;
 }
